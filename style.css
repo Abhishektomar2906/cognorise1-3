@@ -1,0 +1,31 @@
+
+
+div{
+    background-color: pink;
+    height: 200px;
+    width: 200px;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    background-color: blue;
+    text-align: center;
+}
+
+li {
+    background-color:greenyellow;
+    text-align: center;
+}
+
+.input{
+    position: absolute;
+    left: 600px;
+}
+
+.button{
+    position: relative;
+    left: 730px;
+}
